@@ -15,9 +15,10 @@
     <name>aluraFlix</name>
     <description>API de vídeos da Alura</description>
 
-    <properties>
+    <!--comentando para não dar erro no deploy-->
+<!--    <properties>
         <java.version>17</java.version>
-    </properties>
+    </properties>-->
 
     <dependencies>
         <dependency>
